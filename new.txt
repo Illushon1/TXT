@@ -1,7 +1,4 @@
 Kholmogorov Ilya Eduardovich
 29
-rets:0
-[A[p[C[C[C[C[C
+pets:0
 3000$
-
-
